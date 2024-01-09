@@ -1,16 +1,21 @@
 # **Google Dino Game 🦖**
 
-> Добро пожаловать в репозиторий "Simple Google Dino" - небольшого, но увлекательного проекта на языке JavaScript, вдохновленного знаменитой игрой, которую мы все знаем из Google Chrome!
-![DinoGoogle](https://github.com/kattrine99/simple-google-dino/blob/main/img/DinoGoogle.jpg?raw=true)
-## О проекте
-> [!NOTE]
-> Этот проект - это интерпретация Google Dino Game, реализованная с использованием технологий веб-разработки. Простая и захватывающая игра, которая позволит вам погрузиться в волнующий мир бегущего динозавра и преодолевать препятствия.
+*****
 
-## Технологии
-> [!NOTE]
-> Игра создана с использованием следующих технологий:
-> -  HTML5
-> -  CSS3
-> -  JavaScript
+ Welcome to the repository of "Simple Google Dino" - a small but fun JavaScript project inspired by the famous game we all know from Google Chrome!
+
+
+![DinoGoogle](https://github.com/kattrine99/simple-google-dino/blob/main/img/DinoGoogle.jpg?raw=true)
+
+## 📝About a project
+
+ This project is an interpretation of the Google Dino Game, implemented using web development technologies. A simple and addictive game that will allow you to immerse yourself in the exciting world of a running dinosaur and overcome obstacles.
+*****
+## ⚙️Technologies
+
+ The game is developed using the following technologies:
+  -  HTML5
+  -  CSS3
+  -  JavaScript
 
 
