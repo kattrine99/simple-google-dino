@@ -1,4 +1,4 @@
-# **Google Dino Game**
+# **Google Dino Game 🦖**
 
 > Добро пожаловать в репозиторий "Simple Google Dino" - небольшого, но увлекательного проекта на языке JavaScript, вдохновленного знаменитой игрой, которую мы все знаем из Google Chrome!
 ![DinoGoogle](https://github.com/kattrine99/simple-google-dino/blob/main/img/DinoGoogle.jpg?raw=true)
