@@ -37,6 +37,7 @@ let velocityY = 0;
 let Gravity = 0.3;
 
 let gameover = false;
+let gameoverImg ;
 let score =0;
 
 
@@ -71,6 +72,7 @@ function update (){
     
     if(gameover)
     {
+    
         return;
     }
     requestAnimationFrame(update);
@@ -92,6 +94,7 @@ function update (){
         if(detectCollision(dino, cactus))
         {
             gameover =true;
+
             dinoImg.src = "./img/dino-dead.png";
             dinoImg.onload = function(){
                 context.drawImage(dinoImg, dino.x, dino.y, dino.width,dino.height);
