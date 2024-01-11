@@ -5,7 +5,7 @@
  Welcome to the repository of "Simple Google Dino" - a small but fun JavaScript project inspired by the famous game we all know from Google Chrome!
 
 
-![DinoGoogle](https://github.com/kattrine99/simple-google-dino/blob/main/img/DinoGoogle.jpg?raw=true)
+![](https://github.com/kattrine99/simple-google-dino/blob/main/img/googledino.gif)
 
 ## 📝About a project
 
